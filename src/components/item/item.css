@@ -1,0 +1,9 @@
+li {
+    display: flex;
+}
+li * {
+    margin: 0 10px 5px 0;
+}
+span {
+    cursor: pointer;
+}

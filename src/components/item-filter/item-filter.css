@@ -1,0 +1,12 @@
+.tab {
+    cursor: pointer;
+}
+.tab:hover {
+    color: pink;
+}
+.title {
+    margin: 10px 0;
+}
+.filter {
+    margin-bottom: 10px;
+}
